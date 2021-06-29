@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=shubhamc183)
 
 
-    💻 I’m a DevOps and Software Engineer enthusiast.
+    💻 I’m a Software and DevOps Engineer enthusiast.
     📈 I’m currently learning and implementing the best practices of DevOps
     💟 Python, Django, IaaC, Grafana, Cloud, Container, Kubernetes, Helm
     🐱 I’m contributing back to the beautiful Open Source software world.
