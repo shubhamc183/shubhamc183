@@ -2,10 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=shubhamc183)
 
 
-    💻 I’m a Software and DevOps Engineer enthusiast.
-    📈 I’m currently learning and implementing the best practices of DevOps
-    💟 Python, Django, IaaC, Grafana, Cloud, Container, Kubernetes, Helm
-    🐱 I’m contributing back to the beautiful Open Source software world.
+    💻 I’m a Backend Software Engineer and DevOps enthusiast.
+    📈 I’m currently learning and implementing scalable node.js backend platform.
+    💟 JavaScript, Node.js, Express.js, Python, Django, IaaC, Prometheus, Grafana, Cloud, Container, Kubernetes, Helm
+    🐱 I’m contributing back to the beautiful Open Source software world whenver I can
     ✋ Ask me about anything, I'm happy to help!
     📥 How to reach me: shubhamc183@gmail.com
 
